@@ -11,8 +11,7 @@ Untuk Tugas UTS dan UAS hasil dokumentasi akan di alokasikan ke README yang ada 
 ## 1. Portofolio dari Modul
 
 Ini Adalah Portofolio dari Modul
-![Portofolio Modul](https://github.com/Pemrograman-Berbasis-Web/PBW-IF-VA/blob/main/220660121130/Praktikum-JavaScript/4.%20Study-Case/portofolio-modul.jpeg)
-
+![Portofolio Modul](https://github.com/Reswn/Image-Project-PBW/blob/main/portofolio-modul.jpeg?raw=true)
 Portofolio tersebut dibuat dengan
 
 - HTML
@@ -22,7 +21,7 @@ Portofolio tersebut dibuat dengan
 ## 2. Portofolio dari Custom
 
 Ini adalah Portofolio Hasil Kustomisasi ada beberapa perubahan guna memenuhi kebutuhan saya supaya bisa menggunakan portofolio ini
-![Portofolio Modul]([https://github.com/Pemrograman-Berbasis-Web/PBW-IF-VA/blob/main/220660121130/Praktikum-JavaScript/4.%20Study-Case/portofolio-custom.jpeg](https://github.com/Reswn/Image-Project-PBW/blob/main/portofolio-custom.jpeg?raw=true))
+![Portofolio Modul](https://github.com/Reswn/Image-Project-PBW/blob/main/portofolio-custom.jpeg?raw=true)
 
 Portofolio tersebut dibuat dengan
 
